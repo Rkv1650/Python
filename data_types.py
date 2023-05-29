@@ -18,3 +18,16 @@ print(type(a))
 a=10j
 print(a)
 print(type(a))
+
+
+
+# Text Type
+a="Rahul Kumar"
+print(type(a))
+
+# sequence type
+# 1 List 
+a=['Rahul', 'ram' , 'Devi']
+print(type(a))
+a=(1,2,3,4,5,6,7,8,9,10)
+print(type(a))
