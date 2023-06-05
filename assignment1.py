@@ -36,3 +36,18 @@ print(type(a))
 a=1-5j
 print(type(a))
 
+# create a calculator 2 Numbers simple
+a=int(input("Enter Your Value"))
+b=int(input("Enter Your Value"))
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+g=a%b
+print(c)
+print(d)
+print(e)
+print(f)
+print(g)
+
+
